@@ -1,0 +1,12 @@
+D:\Программирование\C#\Jornal\Jornal\obj\Debug\Jornal.csprojAssemblyReference.cache
+D:\Программирование\C#\Jornal\Jornal\obj\Debug\Jornal.Properties.Resources.resources
+D:\Программирование\C#\Jornal\Jornal\obj\Debug\Jornal.csproj.GenerateResource.cache
+D:\Программирование\C#\Jornal\Jornal\obj\Debug\Jornal.csproj.CoreCompileInputs.cache
+D:\Программирование\C#\Jornal\Jornal\bin\Debug\Jornal.exe.config
+D:\Программирование\C#\Jornal\Jornal\bin\Debug\Jornal.exe
+D:\Программирование\C#\Jornal\Jornal\bin\Debug\Jornal.pdb
+D:\Программирование\C#\Jornal\Jornal\obj\Debug\Jornal.Form1.resources
+D:\Программирование\C#\Jornal\Jornal\obj\Debug\Jornal.exe
+D:\Программирование\C#\Jornal\Jornal\obj\Debug\Jornal.pdb
+D:\Программирование\C#\Jornal\Jornal\obj\Debug\Jornal.Add.resources
+D:\Программирование\C#\Jornal\Jornal\obj\Debug\Jornal.Info.resources
